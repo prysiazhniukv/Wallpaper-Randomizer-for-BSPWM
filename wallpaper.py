@@ -1,6 +1,5 @@
 import os
 import random
-import fileinput
 import shutil
 import tempfile
 import pyautogui
